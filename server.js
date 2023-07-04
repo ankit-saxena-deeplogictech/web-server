@@ -2,7 +2,7 @@ var express = require('express');
 var app = express();
 var PORT = process.env.PORT || 3000;
 
-var middleware = require('./middleware.js'); // getting middleware file here 
+var middleware = require('./middleware.js'); // getting middleware file here now
 
 // this is new change
 // this is new change2
